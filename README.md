@@ -1,1 +1,0 @@
-﻿# Rag-based-AI-Teaching_Assistent
