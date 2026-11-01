@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Data and generated media
+backend/data/*.joblib
+videos/
+mp3/
+json/
+*.mp3
+*.mp4
+*.wav
+
+# Node
+node_modules/
+dist/
+.DS_Store

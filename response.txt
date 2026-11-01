@@ -1,0 +1,5 @@
+You're curious about when Semantic Tags were taught in our course? Well, let me check that for you.
+
+From what I can see, the topic of Semantic Tags was introduced in the 11th video of our Sigma Web Development course. To be more specific, it was discussed at around 43.48 seconds into the video.
+
+In this video, we went over the benefits of Semantic Tags and how they're important for SEO. We also explored how to use them in practice, including creating a navbar with HTML. If you want to learn more about Semantic Tags and how to use them effectively in your web development projects, I'd definitely recommend checking out the 11th video of our course. It's a great resource to help you understand the basics of Semantic Tags and how they can improve your website's search engine ranking.

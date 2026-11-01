@@ -1,0 +1,6 @@
+# Core dependencies for the RAG-based AI Teaching Assistant
+requests
+joblib
+numpy
+pandas
+scikit-learn
